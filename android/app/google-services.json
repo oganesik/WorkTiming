@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "941009135597",
+    "project_id": "worktiming-69781",
+    "storage_bucket": "worktiming-69781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941009135597:android:84fe5a25e4b0ae478469e4",
+        "android_client_info": {
+          "package_name": "com.example.worktiming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941009135597-lalacfilhite1262id3km9a1gtfpu3l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.worktiming",
+            "certificate_hash": "e8785ff9b97b694187dadf1e9b5ad92292061873"
+          }
+        },
+        {
+          "client_id": "941009135597-2r96e1m2orb7raglkr0dcohq3jkgeu57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0K_6AzkJ2v4RuExybcdHx2tv75vTv6i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941009135597-2r96e1m2orb7raglkr0dcohq3jkgeu57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941009135597-bq8clc5vvgqel5nr2bcfsf3gri7bd0dh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worktiming.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
